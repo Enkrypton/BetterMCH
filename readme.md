@@ -1,7 +1,10 @@
 # Better Machinist Triggers for Triggernometry 
 
 Created by [Sound Voltex](https://cdn.discordapp.com/attachments/671884056526323772/784666274625355796/unknown.png) from Aether.
+
 Aimed to be a improved version of the default [Aho's Job Triggers](https://github.com/paissaheavyindustries/Triggernometry/blob/master/Repositories/manifest.xml) for Machinist.
+
+Download [ACT](https://advancedcombattracker.com/download.php) and [Triggernometry](https://github.com/paissaheavyindustries/Triggernometry) here.
 ## Drill/Air Anchor 8
 Alerts you when there is around 8 seconds (dependent on skill speed) left on Drill and Air Anchor to remind you not to press Hypercharge
 ## Drill/Air Anchor Ready
